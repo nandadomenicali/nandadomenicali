@@ -27,6 +27,12 @@
   
 </p>  
 
+<p align="center">
+  <a href="https://github.com/nandadomenicali">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nandadomenicali&layout=compact&theme=dark&hide_border=true&custom_title=Wakatime+Stats+(Last+7+Days)"   alt="nandadomenicali"/>
+  </a>
+</p>
+
 <p align='center'>
   📫 How to reach me: <a href='mailto:nanda21domenicali@gmail.com'>nanda21domenicali@gmail.com</a>
 </p>
