@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/nandadomenicali">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nandadomenicali&layout=compact&theme=dark&hide_border=true&custom_title=Wakatime+Stats+(Last+7+Days)"   alt="nandadomenicali"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandadomenicali&theme=tokyonight&hide_border=true" alt="nandadomenicali" />
   </a>
 </p>
 
