@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/nandadomenicali">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=tokyonight" alt="nandadomenicali" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=dark" alt="nandadomenicali" />
   </a> 
 </p>
 
