@@ -29,8 +29,8 @@
 
 <p align="center">
   <a href="https://github.com/nandadomenicali">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandadomenicali&theme=tokyonight&hide_border=true" alt="nandadomenicali" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=tokyonight" alt="nandadomenicali" />
+  </a> 
 </p>
 
 <p align='center'>
