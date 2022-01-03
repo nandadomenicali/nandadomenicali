@@ -1,6 +1,8 @@
-## Hi there 👋 I'm Fernanda 👩🏻‍💻 
+## Hi there. I'm Fernanda 👩🏻‍💻 
 
-> *  I'm developer from Brazil 🇧🇷   
+> *  I'm developer from Brazil 🇧🇷
+> *  Graduated in IT 💻
+> *  Let's innovate and change the world 🔥
 ### My networks 
 
 <div>
@@ -19,5 +21,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/nandadomenicali/nandadomenicali/blob/output/github-contribution-grid-snake.svg)  
-  
+![Snake animation](https://github.com/nandadomenicali/nandadomenicali/blob/output/github-contribution-grid-snake.svg)
