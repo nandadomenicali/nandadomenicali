@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Fernanda 👩🏻‍💻 
 
 > *  I'm developer from Brazil 🇧🇷   
-### Contatos
+### My networks 
 
 <div>
    <a href="https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/">
@@ -14,15 +14,11 @@
 
 ### 💻 Keep calm and CODE ON! 🔛 
 <div>
-<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
 
-<p align="center">
   <a href="https://github.com/nandadomenicali">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=dark" alt="nandadomenicali" />
   </a> 
-</p> 
 </div>
 
 ![Snake animation](https://github.com/nandadomenicali/nandadomenicali/blob/output/github-contribution-grid-snake.svg)  
