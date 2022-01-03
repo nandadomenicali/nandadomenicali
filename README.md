@@ -14,11 +14,9 @@
 
 ### 💻 Keep calm and CODE ON! 🔛 
 <div>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&show_icons=true&count_private=true&theme=dark" width="350"></a>
-
-  <a href="https://github.com/nandadomenicali">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=dark" alt="nandadomenicali" />
-  </a> 
+<a href="https://github.com/nandadomenicali">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/nandadomenicali/nandadomenicali/blob/output/github-contribution-grid-snake.svg)  
