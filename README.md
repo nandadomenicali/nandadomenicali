@@ -1,6 +1,5 @@
 ## Hi there. I'm Fernanda 👩🏻‍💻 
 
-> *  I'm from Brazil 🇧🇷
 > *  Graduated 💻
 > *  Let's innovate and change the world 🔥
 
