@@ -3,15 +3,12 @@
 > *  I'm from Brazil 🇧🇷
 > *  Graduated 💻
 > *  Let's innovate and change the world 🔥
-### My networks 
 
+### My networks 
 <div>
    <a href="https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp; 
-  <a href="https://www.instagram.com/domecoder/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
+  </a>&nbsp;&nbsp;
 </div>
 
 ### 💻 Keep calm and CODE ON! 🔛 
