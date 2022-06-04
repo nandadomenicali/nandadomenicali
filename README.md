@@ -1,6 +1,6 @@
 ## Hi there. I'm Fernanda 👩🏻‍💻 
 
-> *  An Eternal apprentice
+> *  An Eternal apprentice 🚀
 > *  Graduated 💻
 > *  Let's innovate and change the world 🔥
 
