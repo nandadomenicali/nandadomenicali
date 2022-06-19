@@ -4,7 +4,7 @@
 > *  Graduated 💻
 > *  Let's innovate and change the world 🔥
 
-### My networks 
+### My network 
 <div>
    <a href="https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
