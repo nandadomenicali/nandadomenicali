@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Fernanda Domenicali!👩🏻‍💻</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Fernanda Domenicali 👩🏻‍💻</h1></summary>
   </ul>
 </div>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,java,nodejs,php,c++,go,docker,kubernets,spring,express,github,idea,js,linux,mongodb,mysql,postman,py,react,ts,vscode,sql,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,java,nodejs,php,cpp,go,docker,kubernets,spring,express,github,js,linux,mongodb,mysql,postman,py,react,ts,grafana,hibernate,jenkins,kafka,kubernetes,laravel,maven,nginx,postgres,sequelize,unity,vim,wordpress&perline=14" />
   </a>
 </p>
 
