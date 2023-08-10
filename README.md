@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,java,nodejs,php,cpp,go,docker,kubernets,spring,express,github,js,linux,mongodb,mysql,postman,py,react,ts,grafana,hibernate,jenkins,kafka,kubernetes,laravel,maven,nginx,postgres,sequelize,unity,vim,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,java,nodejs,php,cpp,go,docker,kubernetes,spring,express,github,js,linux,mongodb,mysql,postman,py,react,ts,grafana,hibernate,jenkins,kafka,laravel,maven,nginx,postgres,sequelize,unity,vim,wordpress&perline=14" />
   </a>
 </p>
 
