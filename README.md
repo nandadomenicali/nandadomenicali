@@ -17,11 +17,11 @@
   </ul>
 </div>
 
-- 🌱 I'm currently perfecting **my skills as a developer and applying my knowledge to personal projects.**
+- 🌱 I'm currently perfecting **my skills as a developer and applying my knowledge to personal projects;**
 
-- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS;**
 
-- 💬 Ask me about **AWS, JAVA, nodejs, goLang, Software Architecture, Design Patterns**
+- 💬 Ask me about **AWS, JAVA, nodejs, goLang, Software Architecture, Design Patterns;**
 
 - 📫 Feel free to reach me out **domecoderdeveloper@gmail.com**
 
