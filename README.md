@@ -25,24 +25,11 @@
 
 - 📫 Feel free to reach me out **domecoderdeveloper@gmail.com**
 
-<p align="center">
-<table align="center">
-<tr border="none">
-
-<!-- <td width="50%" align="center">
-  <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nandadomenicali&theme=dark&hide_border=false" /> 
-</td> --> 
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nandadomenicali&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-</p>        
+<div>
+<a href="https://github.com/nandadomenicali">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
