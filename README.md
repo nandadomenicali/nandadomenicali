@@ -25,11 +25,11 @@
 
 - 📫 Feel free to reach me out **domecoderdeveloper@gmail.com**
 
-<div>
+<!-- <div>
 <a href="https://github.com/nandadomenicali">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandadomenicali&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandadomenicali&theme=dracula&show_icons=true&count_private=true"/>
-</div>   
+</div>    -->
 
 <div id="user-content-toc">
   <ul align="center">
@@ -63,4 +63,4 @@
 ----------------------------------------------------------------------
 By: [nandadomenicali](https://github.com/nandadomenicali)
 
-Last Edited on: 08/14/2023
+Last Edited on: 08/16/2023
