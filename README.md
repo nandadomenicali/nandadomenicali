@@ -2,7 +2,9 @@
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/nandadomenicali)
 
-- 😍 I am passionate about solving complex problems, designing microservices and creating algorithms.
+## Hello World! 🌎
+
+- 😍 I am passionate about solving complex problems, designing microservices and creating algorithms;
 
 - 🚀 I'm currently perfecting **my skills as a developer and applying my knowledge to personal projects;**
 
