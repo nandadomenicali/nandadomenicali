@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/nandadomenicali)
 
-## Hello World! 🌎
+Hello World! 🌎
 
 - 😍 I am passionate about solving complex problems, designing microservices and creating algorithms;
 
