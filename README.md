@@ -2,12 +2,11 @@
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/nandadomenicali)
 
+- 😍 I am passionate about solving complex problems, designing microservices and creating algorithms.
 
 - 🚀 I'm currently perfecting **my skills as a developer and applying my knowledge to personal projects;**
 
-- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS;**
-
-- 💬 Ask me about **AWS, JAVA, goLang, Software Architecture, Design Patterns;**
+- ☁️ I have a great interest in cloud computing. I am constantly improving cloud computing using **AWS;**
 
 - 📫 Feel free to reach me out 
 
