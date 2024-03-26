@@ -12,6 +12,6 @@ Hello World! 🌎
 
 - 📫 Feel free to reach me out 
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/)](https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/)
-[![Gmail Badge](https://img.shields.io/badge/-domecoderdeveloper@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:domecoderdeveloper@gmail.com)](mailto:domecoderdeveloper@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/)](https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:domecoderdeveloper@gmail.com)](mailto:domecoderdeveloper@gmail.com)
 
