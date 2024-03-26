@@ -1,6 +1,7 @@
+## About me
+
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/nandadomenicali)
 
-## About me
 
 - 🚀 I'm currently perfecting **my skills as a developer and applying my knowledge to personal projects;**
 
