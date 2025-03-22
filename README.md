@@ -7,7 +7,7 @@
 💡 **What do I do?**  
 - 💻 **Mentorship "Level UP: Junior Developer 🎮"**: I help beginner and junior devs stand out in the tech market by applying my expertise in technical recruiting and software development.  
 - 🚀 **Creator of debugandoideias**: I share insights on how developers can grow in a practical and efficient way in their careers.  Follow me there! 😎
-- 📝 **Author of the award-winning article "Mutation Testing as a Quality Assurance Technique in a Fintech Company"**, presented at **SBQS 2024**, with an extended version to be published in **JSERD**.  
+- 📝 **Author of the award-winning article "Mutation Testing as a Quality Assurance Technique in a Fintech Company"**, presented at **SBQS 2024**, with an extended version to be published in **JSERD (Journal of Software Engineer Research and Development).**  
 - ☁️ Passionate about **Cloud Computing (AWS)** and always looking to improve my knowledge.  
 - 🌎 **Fluent in English**: I help professionals improve their proficiency to seize international opportunities.  
 
