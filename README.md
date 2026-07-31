@@ -1,19 +1,50 @@
-# Hello World! 👋🏻🌎
+# Hi there, I'm Fernanda Cardoso 👋
 
-## About Me
+Software Engineer • Technical Writer • Content Creator
 
-👩🏻‍💻 Software Engineer passionate about building software, solving problems, and continuously learning.
+Building software, exploring ideas, and sharing knowledge.
 
-✍🏻 Creator of **Debugando Ideias**, where I share ideas about software engineering, AI, architecture, testing, career, and technology.
+---
 
-💙 Interests: Software Engineering • AI • Backend • Architecture • Testing • Cloud • Open Source • Technical Writing • Continuous Learning
+### About Me
 
-## Contact
+I'm a Software Engineer passionate about Software Engineering, Artificial Intelligence, Software Architecture, Testing, Cloud Computing, and Continuous Learning.
 
-🌐 https://debugandoideias.com.br
+I'm also the creator of **Debugando Ideias**, where I write technical articles and share practical insights for developers.
 
-📧 contato@debugandoideias.com.br
+---
 
-💼 LinkedIn
+### Connect with me
 
-📷 @debugandoideias
+<p align="left">
+<a href="https://debugandoideias.com.br" target="_blank">
+<img src="https://img.shields.io/badge/Website-debugandoideias.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:contato@debugandoideias.com.br">
+<img src="https://img.shields.io/badge/Email-contato@debugandoideias.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fernanda-cardoso-domenicali-soares-83a225158/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Fernanda%20Cardoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/debugandoideias/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@debugandoideias-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### Interests
+
+`Software Engineering`
+`Artificial Intelligence`
+`Java`
+`Backend`
+`Software Architecture`
+`Testing`
+`Cloud`
+`Open Source`
+`Technical Writing`
+`Continuous Learning`
