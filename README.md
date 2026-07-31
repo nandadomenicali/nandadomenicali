@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi there, I'm Fernanda Cardoso 👋
+# Hi there, I'm Fernanda 👋
 
 ### Software Engineer • Technical Writer • Content Creator
 
 Building software, exploring ideas and sharing knowledge.
 
 <p>
-  <a href="https://debugandoideias.com.br">🌐 debugandoideias.com.br</a> •
+  <a href="https://debugandoideias.com.br">debugandoideias.com.br</a> •
   <a href="https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/">LinkedIn</a> •
   <a href="https://www.instagram.com/debugandoideias/">Instagram</a>
 </p>
