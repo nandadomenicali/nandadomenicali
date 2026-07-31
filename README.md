@@ -1,22 +1,103 @@
+<div align="center">
 
-# Hello World! 👋🏻 🌎
+# Hi there, I'm Fernanda Cardoso 👋
 
-## About Me
+### Software Engineer • Technical Writer • Content Creator
 
-👩🏻‍💻 I’m a professional passionate about technology and helping people build successful careers in the IT field. Combining my experience in technical recruiting with my background in software development, I’ve created initiatives to guide developers toward landing their dream jobs in the industry.
+Building software, exploring ideas and sharing knowledge.
 
-💡 What do I do?
+<p>
+  <a href="https://debugandoideias.com.br">🌐 debugandoideias.com.br</a> •
+  <a href="https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/">LinkedIn</a> •
+  <a href="https://www.instagram.com/debugandoideias/">Instagram</a>
+</p>
 
-- 💻 Mentorship: I help beginner and junior devs stand out in the tech market by applying my expertise in technical recruiting and software development.
-- 🚀 Creator of debugandoideias: I share insights on how developers can grow in a practical and efficient way in their careers. Follow me there! 😎
-- 📝 Author of the award-winning article “Mutation Testing as a Quality Assurance Technique in a Fintech Company”, presented at SBQS 2024.
-- ☁️ Passionate about Cloud Computing (AWS) and always looking to improve my knowledge.
-- 🌎 Fluent in English: I help professionals improve their proficiency to seize international opportunities.
+</div>
 
-My goal is to empower developers to grow both technically and professionally, becoming the protagonists of their careers. If you want to transform your journey in technology, I’m here to help! 🚀
+---
 
-## Contact
+## 👩🏻‍💻 About Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/)](https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/)  
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandadomedeveloper@gmail.com)](mailto:fernandadomedeveloper@gmail.com)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#)](https://www.instagram.com/debugandoideias?igsh=a2Uza2ljNXAzeHQ%3D&utm_source=qr)
+I'm a Software Engineer passionate about solving problems, understanding how things work, and continuously learning.
+
+I created **Debugando Ideias** as a place to share practical insights about software engineering, artificial intelligence, career growth, and everything that helps developers become better professionals.
+
+I believe that the best way to learn is by building, experimenting, writing, and sharing knowledge.
+
+---
+
+## 🚀 What you'll find here
+
+- 💻 Personal projects
+- ☕ Java & Backend Development
+- 🧪 Software Testing & Quality Engineering
+- 🏗️ Software Architecture
+- 🤖 Artificial Intelligence for Software Engineering
+- 📚 Technical articles
+- 🔬 Experiments and studies
+- 🌱 Things I'm currently learning
+
+---
+
+## ❤️ Interests
+
+Technology is just one of my passions.
+
+I'm naturally curious and enjoy learning about many different topics.
+
+Some of the things that currently spark my interest include:
+
+- Software Engineering
+- Artificial Intelligence
+- Software Architecture
+- Backend Development
+- Testing & Quality Engineering
+- Cloud Computing
+- Distributed Systems
+- Developer Experience
+- Open Source
+- Product Thinking
+- Technical Writing
+- Knowledge Management
+- Productivity
+- Books
+- Continuous Learning
+- Education & Mentoring
+- Entrepreneurship
+- Building useful products
+
+---
+
+## 🏆 Publications
+
+**Distinguished Paper Award — SBQS 2024**
+
+📄 *Mutation Testing as a Quality Assurance Technique in a Fintech Company*
+
+---
+
+## 🌎 Let's connect
+
+<p align="left">
+
+<a href="https://debugandoideias.com.br">
+<img src="https://img.shields.io/badge/Website-debugandoideias.com.br-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fernanda-cardoso-domenicali-83a225158/">
+<img src="https://img.shields.io/badge/LinkedIn-Fernanda%20Cardoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/debugandoideias/">
+<img src="https://img.shields.io/badge/Instagram-@debugandoideias-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:contato@debugandoideias.com.br">
+<img src="https://img.shields.io/badge/Email-contato@debugandoideias.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> *"Always learning. Always building. Always sharing."* 🚀
