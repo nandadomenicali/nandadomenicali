@@ -1,8 +1,8 @@
-# Hi there, I'm Fernanda Cardoso 👋
+# Hi there, I'm Fernanda 👋
 
-Software Engineer • Technical Writer • Content Creator
+👩🏻‍💻 Software Engineer • Technical Writer • Content Creator
 
-Building software, exploring ideas, and sharing knowledge.
+Building software, exploring ideas, and sharing knowledge. 🚀
 
 ---
 
@@ -33,18 +33,3 @@ I'm also the creator of **Debugando Ideias**, where I write technical articles a
 <img src="https://img.shields.io/badge/Instagram-@debugandoideias-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
----
-
-### Interests
-
-`Software Engineering`
-`Artificial Intelligence`
-`Java`
-`Backend`
-`Software Architecture`
-`Testing`
-`Cloud`
-`Open Source`
-`Technical Writing`
-`Continuous Learning`
